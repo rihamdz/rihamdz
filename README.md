@@ -32,7 +32,7 @@ and solving challenging problems from algorithmic, network, or system-level pers
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-##🖥️ **Développement Backend**
+## 🖥️ **Développement Backend**
 
 - Conception et développement d’API REST robustes
 - Java + Spring Boot (Controllers, Services, Repositories, Security…)
@@ -44,7 +44,7 @@ and solving challenging problems from algorithmic, network, or system-level pers
 
 ---
 
-##🎨 **Développement Frontend**
+## 🎨 **Développement Frontend**
 
 - React.js : composants, hooks, routing, state management
 - JavaScript moderne (ES6+), promesses, async/await
