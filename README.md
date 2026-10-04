@@ -111,17 +111,12 @@ Authentification par :
 ---
 
 
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<ton_pseudo>&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<ton_pseudo>&layout=compact&theme=radical" height="165" />
-</p>
 
 ---
 
 # 📫 Contact
 - ✉️ Email kaddourbakirriham@gmail.com  
-- 💼 LinkedIn :[ *add link here*](https://www.linkedin.com/in/riham-kaddourbakir-189294294)  
+- 💼 LinkedIn :(https://www.linkedin.com/in/riham-kaddourbakir-189294294)  
 
 ---
 
