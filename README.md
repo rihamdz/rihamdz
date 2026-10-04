@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Riham — Future Software Engineer</h1>
+<h1 align="center">👋 Hi, I'm Riham — Future data science Engineer</h1>
 
 <p align="center">
   
